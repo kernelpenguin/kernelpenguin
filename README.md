@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kernelpenguin&label=Profile%20views&color=0e75b6&style=flat" alt="kernelpenguin" /> </p>
 
-- 🌱 I’m currently being mentored by **@artu-hnrq**
+- 🌱 I’m currently being mentored by **[@artu-hnrq](https://github.com/artu-hnrq)**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 

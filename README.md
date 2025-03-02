@@ -16,7 +16,7 @@ ____
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 🤝 I’m looking for help with **[startup](linkedin.com/company) launching (frontend developers wanted)**
+- 🤝 I’m looking for help with **[startup](https://www.linkedin.com/company/102451732/) launching (frontend developers wanted)**
 
 
 ____

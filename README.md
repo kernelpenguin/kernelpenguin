@@ -7,7 +7,26 @@
 <p align="right" title="I'm a loner!">
   Hi, how are you?
 </p>
-
+<p align="center">
+<a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" alt="Java" title="Java" class="tech-logo" width="32" height="32"></a>
+&nbsp;&nbsp;
+<a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spring.svg" alt="Spring" title="Spring" class="tech-logo" width="32" height="32"></a>
+&nbsp;&nbsp;
+<a href="https://kotlinlang.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kotlin.svg" alt="Kotlin" title="Kotlin" class="tech-logo" width="32" height="32"></a>
+&nbsp;&nbsp;
+<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" class="tech-logo" width="32" height="32"></a>
+&nbsp;&nbsp;
+<a href="https://graphql.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/graphql.svg" alt="GraphQL" title="GraphQL" class="tech-logo" width="32" height="32"></a>
+&nbsp;&nbsp;
+<a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" title="JavaScript" class="tech-logo" width="32" height="32"></a>
+&nbsp;&nbsp;
+<a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pytorch.svg" alt="PyTorch" title="PyTorch" class="tech-logo" width="32" height="32"></a>
+&nbsp;&nbsp;
+<a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/c.svg" alt="C" title="C" class="tech-logo" width="32" height="32"></a>
+&nbsp;&nbsp;
+<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" title="Python" class="tech-logo" width="32" height="32"></a>
+&nbsp;&nbsp;
+<a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" alt="Linux" title="Linux" class="tech-logo" width="32" height="32"></a>
 
 ____
 
@@ -22,9 +41,8 @@ ____
 ____
 
 
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-_____
+  
+  _____
 
 
 <p align="center">
